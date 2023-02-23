@@ -5,6 +5,7 @@ Building software is a team sport as well as an expression of quality and crafts
 #### Projects ⚡
 
 https://squirrel-news.net
+
 https://angularsnippets.dev
 
 #### 📫 Let`s connect
