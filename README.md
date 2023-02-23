@@ -2,6 +2,8 @@
 
 Building software is a team sport as well as an expression of quality and craftsmanship. UX has many layers. User needs are in focus. Passion leads to perfection. In the long haul, developing forward-thinking and sustainable solutions is key for business and society.
 
+The one`s who cared was rewarded.
+
 #### Projects ⚡
 
 https://squirrel-news.net
