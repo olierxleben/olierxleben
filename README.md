@@ -10,7 +10,7 @@ https://squirrel-news.net
 
 https://angularsnippets.dev
 
-#### 📫 Let`s connect
+#### Let`s connect 📫
 
 <p>
 <a href="www.linkedin.com/in/olivererxleben">
