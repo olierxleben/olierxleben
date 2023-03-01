@@ -4,7 +4,7 @@ Building software is a team sport as well as an expression of quality and crafts
 
 The one`s who cared was rewarded.
 
-#### Projects ⚡
+#### Projects I contribute to ⚡
 
 https://squirrel-news.net
 
